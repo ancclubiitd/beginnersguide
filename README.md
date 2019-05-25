@@ -1,4 +1,4 @@
-#Beginners Guide
+# Beginners Guide
 
 The repository contains several resources, which may help one get started with competitive coding.
 
